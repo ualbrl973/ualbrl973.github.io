@@ -6,7 +6,7 @@ description: >- # Esto es una descripción corta de tu sitio
   de Herramientas y Métodos de Ingeniería de Software. Estudiante de 4º de Ingeniería Informática.
 
 # Configuración del tema (GitHub Pages soporta varios temas nativos)
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 # Redes sociales (el tema minimal puede crear enlaces automáticamente)
 github_username: ualbrl973
