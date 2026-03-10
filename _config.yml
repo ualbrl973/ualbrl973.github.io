@@ -1,0 +1,12 @@
+title: Portafolio HMIS - Bruno
+author: Bruno
+email: brl973@inlumine.ual.es
+description: >- # Esto es una descripción corta de tu sitio
+  Portafolio de proyectos, prácticas y documentación para la asignatura 
+  de Herramientas y Métodos de Ingeniería de Software. Estudiante de 4º de Ingeniería Informática.
+
+# Configuración del tema (GitHub Pages soporta varios temas nativos)
+theme: jekyll-theme-minimal
+
+# Redes sociales (el tema minimal puede crear enlaces automáticamente)
+github_username: ualbrl973
